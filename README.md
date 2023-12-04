@@ -1,2 +1,2 @@
-# fCC-Scientific-Computing-with-Python-Scientific-Computing-with-Python-Certification
+# fCC-Scientific-Computing-with-Python-Certification
 
